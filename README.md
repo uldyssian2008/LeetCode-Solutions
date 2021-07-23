@@ -140,7 +140,7 @@
 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [C++](./C++/spiral-matrix.cpp)  [Python](./Python/spiral-matrix.py) | _O(m * n)_    | _O(1)_         | Medium         |done (boundary cond. is tricky, go back)|
 0059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [C++](./C++/spiral-matrix-ii.cpp) [Python](./Python/spiral-matrix-ii.py) | _O(n^2)_ | _O(1)_      | Medium         |done [[0]*n for i in range(n)]|
 0066 | [Plus One](https://leetcode.com/problems/plus-one/)      | [C++](./C++/plus-one.cpp) [Python](./Python/plus-one.py)   | _O(n)_           | _O(1)_         | Easy           |done| 
-0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [C++](./C++/set-matrix-zeroes.cpp) [Python](./Python/set-matrix-zeroes.py) | _O(m * n)_ | _O(1)_    | Medium         ||
+0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [C++](./C++/set-matrix-zeroes.cpp) [Python](./Python/set-matrix-zeroes.py) | _O(m * n)_ | _O(1)_    | Medium         |done go back|
 0080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [C++](./C++/remove-duplicates-from-sorted-array-ii.cpp)  [Python](./Python/remove-duplicates-from-sorted-array-ii.py) | _O(n)_       | _O(1)_         | Medium         || Two Pointers
 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [C++](./C++/pascals-triangle.cpp) [Python](./Python/pascals-triangle.py) | _O(n^2)_ | _O(1)_        | Easy           |done| 
 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [C++](./C++/pascals-triangle-ii.cpp) [Python](./Python/pascals-triangle-ii.py) | _O(n^2)_ | _O(1)_  | Easy           |done|
