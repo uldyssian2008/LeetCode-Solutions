@@ -159,7 +159,7 @@
 0243| [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)     | [C++](./C++/shortest-word-distance.cpp) [Python](./Python/shortest-word-distance.py)  | _O(n)_ |  _O(1)_ | Easy         |done, 2 pointers🔒||
 0245| [Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/)     | [C++](./C++/shortest-word-distance-iii.cpp) [Python](./Python/shortest-word-distance-iii.py)  | _O(n)_ |  _O(1)_ |Medium         |done 🔒||
 0251| [Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/) | [C++](./C++/flatten-2d-vector.cpp) [Python](./Python/flatten-2d-vector.py)  | _O(1)_ |  _O(1)_ | Medium         |done🔒||
-0277| [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [C++](./C++/find-the-celebrity.cpp) [Python](./Python/find-the-celebrity.py)  | _O(n)_ |  _O(1)_ | Medium         |🔒, EPI ||
+0277| [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [C++](./C++/find-the-celebrity.cpp) [Python](./Python/find-the-celebrity.py)  | _O(n)_ |  _O(1)_ | Medium         |done 🔒, EPI ||
 0289| [Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./C++/game-of-life.cpp) [Python](./Python/game-of-life.py)  | _O(m * n)_ |  _O(1)_ | Medium         |||
 0293| [Flip Game](https://leetcode.com/problems/flip-game/) | [C++](./C++/flip-game.cpp) [Python](./Python/flip-game.py)  | _O(n * (c+1))_ |  _O(1)_ | Easy         |🔒||
 0296| [Best Meeting Point](https://leetcode.com/problems/best-meeting-point/) | [C++](./C++/best-meeting-point.cpp) [Python](./Python/best-meeting-point.py)  | _O(m * n)_ |  _O(m + n)_ | Hard         |🔒||
