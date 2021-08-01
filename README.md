@@ -370,7 +370,7 @@
 0186| [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) |[C++](./C++/reverse-words-in-a-string-ii.cpp)  [Python](./Python/reverse-words-in-a-string-ii.py) | _O(n)_ | _O(1)_ | Medium         | done, reverse twice🔒 |
 0214| [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | [C++](./C++/shortest-palindrome.cpp) [Python](./Python/shortest-palindrome.py) | _O(n)_ | _O(n)_ |  Hard || `KMP Algorithm`, `Manacher's Algorithm`
 0242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [C++](./C++/valid-anagram.cpp) [Python](./Python/valid-anagram.py) | _O(n)_       | _O(1)_         | Easy         | LintCode |
-0271| [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | [C++](./C++/encode-and-decode-strings.cpp) [Python](./Python/encode-and-decode-strings.py) | _O(n)_ | _O(1)_ | Medium         | 🔒 |
+0271| [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | [C++](./C++/encode-and-decode-strings.cpp) [Python](./Python/encode-and-decode-strings.py) | _O(n)_ | _O(1)_ | Medium         | done 🔒 |
 0273| [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [C++](./C++/integer-to-english-words.cpp)  [Python](./Python/integer-to-english-words.py) | _O(1)_ | _O(1)_ | Hard         | |
 0306| [Addictive Number](https://leetcode.com/problems/additive-number/) | [C++](./C++/additive-number.cpp)  [Python](./Python/additive-number.py) | _O(n^3)_ | _O(n)_ | Medium         | |
 0383| [Ransom Note](https://leetcode.com/problems/ransom-note/) | [C++](./C++/ransom-note.cpp)  [Python](./Python/ransom-note.py) | _O(n)_ | _O(1)_ | Easy         | EPI |
