@@ -357,7 +357,7 @@
 0006| [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](./C++/zigzag-conversion.cpp) [Python](./Python/zigzag-conversion.py) | _O(n)_ | _O(1)_        | Easy           ||
 0008| [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](./C++/string-to-integer-atoi.cpp) [Python](./Python/string-to-integer-atoi.py) | _O(n)_ | _O(1)_ | Easy      ||
 0014| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](./C++/longest-common-prefix.cpp) [Python](./Python/longest-common-prefix.py) | _O(n * k)_   | _O(1)_  | Easy           ||
-0028| [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C++](./C++/implement-strstr.cpp) [Python](./Python/implement-strstr.py) | _O(n + k)_   | _O(k)_  | Easy           || `KMP Algorithm`
+0028| [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C++](./C++/implement-strstr.cpp) [Python](./Python/implement-strstr.py) | _O(n + k)_   | _O(k)_  | Easy           |done, go back to KMP| `KMP Algorithm`
 0038| [Count and Say](https://leetcode.com/problems/count-and-say/) | [C++](./C++/count-and-say.cpp) [Python](./Python/count-and-say.py)| _O(n * 2^n)_  | _O(2^n)_        | Easy           ||
 0043| [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [C++](./C++/multiply-strings.cpp) [Python](./Python/multiply-strings.py) | _O(m * n)_ | _O(m + n)_  | Medium         |done|
 0058| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](./C++/length-of-last-word.cpp) [Python](./Python/length-of-last-word.py) | _O(n)_   | _O(1)_  | Easy           ||
