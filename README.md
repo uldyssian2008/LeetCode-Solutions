@@ -364,7 +364,7 @@
 0067| [Add Binary](https://leetcode.com/problems/add-binary/)    | [C++](./C++/add-binary.cpp) [Python](./Python/add-binary.py) | _O(n)_          | _O(1)_          | Easy           ||
 0068| [Text Justification](https://leetcode.com/problems/text-justification/) | [C++](./C++/text-justification.cpp) [Python](./Python/text-justification.py) | _O(n)_ | _O(1)_      | Hard           ||
 0125| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./C++/valid-palindrome.cpp) [Python](./Python/valid-palindrome.py) | _O(n)_  | _O(1)_         | Easy           ||
-0151| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](./C++/reverse-words-in-a-string.cpp)  [Python](./Python/reverse-words-in-a-string.py) | _O(n)_ | _O(1)_ | Medium         ||
+0151| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](./C++/reverse-words-in-a-string.cpp)  [Python](./Python/reverse-words-in-a-string.py) | _O(n)_ | _O(1)_ | Medium         |done (easy in python)|
 0161| [One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | [C++](./C++/one-edit-distance.cpp) [Python](./Python/one-edit-distance.py) | _O(m + n)_ | _O(1)_    | Medium         |🔒 |
 0165| [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [C++](./C++/compare-version-numbers.cpp) [Python](./Python/compare-version-numbers.py) | _O(n)_ | _O(1)_ | Easy     ||
 0186| [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) |[C++](./C++/reverse-words-in-a-string-ii.cpp)  [Python](./Python/reverse-words-in-a-string-ii.py) | _O(n)_ | _O(1)_ | Medium         | 🔒 |
