@@ -568,7 +568,7 @@
 0084| [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [C++](./C++/largest-rectangle-in-histogram.cpp) [Python](./Python/largest-rectangle-in-histogram.py) | _O(n)_ | _O(n)_ | Hard || Mono Stack, DP
 0085| [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)| [C++](./C++/maximal-rectangle.cpp)  [Python](./Python/maximal-rectangle.py)| _O(m * n)_ | _O(n)_         | Hard           | EPI | Mono Stack
 0101| [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [C++](./C++/symmetric-tree.cpp) [Python](./Python/symmetric-tree.py) | _O(n)_      | _O(h)_          | Easy           ||
-0150| [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| [C++](./C++/evaluate-reverse-polish-notation.cpp) [Python](./Python/evaluate-reverse-polish-notation.py)| _O(n)_| _O(n)_| Medium          ||
+0150| [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| [C++](./C++/evaluate-reverse-polish-notation.cpp) [Python](./Python/evaluate-reverse-polish-notation.py)| _O(n)_| _O(n)_| Medium          |done|
 0155| [Min Stack](https://leetcode.com/problems/min-stack/)     | [C++](./C++/min-stack.cpp) [Python](./Python/min-stack.py)  | _O(n)_          | _O(1)_          | Easy           ||
 0224| [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [C++](./C++/basic-calculator.cpp) [Python](./Python/basic-calculator.py) | _O(n)_| _O(n)_| Hard || 
 0227| [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [C++](./C++/basic-calculator-ii.cpp) [Python](./Python/basic-calculator-ii.py) | _O(n)_| _O(n)_| Medium || 
