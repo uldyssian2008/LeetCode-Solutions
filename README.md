@@ -1111,7 +1111,7 @@
 0086| [Partition List](https://leetcode.com/problems/partition-list/)| [C++](./C++/partition-list.cpp) [Python](./Python/partition-list.py) | _O(n)_       | _O(1)_         | Medium         |done| 
 0141| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [C++](./C++/linked-list-cycle.cpp) [Python](./Python/linked-list-cycle.py) | _O(n)_ | _O(1)_         | Easy         || 
 0142| [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| [C++](./C++/linked-list-cycle-ii.cpp) [Python](./Python/linked-list-cycle-ii.py) | _O(n)_ | _O(1)_   | Medium         |done, go back, turtle-rabbit|
-0143| [Reorder List](https://leetcode.com/problems/reorder-list/)| [C++](./C++/reorder-list.cpp) [Python](./Python/reorder-list.py) | _O(n)_          |  _O(1)_         | Medium         ||  
+0143| [Reorder List](https://leetcode.com/problems/reorder-list/)| [C++](./C++/reorder-list.cpp) [Python](./Python/reorder-list.py) | _O(n)_          |  _O(1)_         | Medium         |done, go back, many basic concepts|  
 0167| [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](./C++/two-sum-ii-input-array-is-sorted.cpp) [Python](./Python/two-sum-ii-input-array-is-sorted.py) | _O(n)_   | _O(1)_         | Medium         | |
 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [C++](./C++/minimum-size-subarray-sum.cpp) [Python](./Python/minimum-size-subarray-sum.py) | _O(n)_ | _O(1)_ |  Medium | | Binary Search, Sliding Window
 0259 | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) | [C++](./C++/3sum-smaller.cpp) [Python](./Python/3sum-smaller.py) | _O(n^2)_ | _O(1)_          | Medium         | 🔒, LintCode |
