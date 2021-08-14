@@ -1182,7 +1182,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0095| [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [C++](./C++/unique-binary-search-trees-ii.cpp) [Python](./Python/unique-binary-search-trees-ii.py) | _O(4^n / n^(3/2)_      | _O(4^n / n^(3/2)_         | Medium         |done|
-0098| [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[C++](./C++/validate-binary-search-tree.cpp) [Python](./Python/validate-binary-search-tree.py)| _O(n)_ | _O(1)_ | Medium ||
+0098| [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[C++](./C++/validate-binary-search-tree.cpp) [Python](./Python/validate-binary-search-tree.py)| _O(n)_ | _O(1)_ | Medium |done|
 0100| [Same Tree](https://leetcode.com/problems/same-tree/)      |[C+](./C++/same-tree.cpp) [Python](./Python/same-tree.py)  | _O(n)_          | _O(h)_        | Easy          ||
 0104| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [C++](./C++/maximum-depth-of-binary-tree.cpp) [Python](./Python/maximum-depth-of-binary-tree.py)| _O(n)_ | _O(h)_ | Easy ||
 0105| [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [C++](./C++/construct-binary-tree-from-preorder-and-inorder-traversal.cpp) [Python](./Python/construct-binary-tree-from-preorder-and-inorder-traversal.py) | _O(n)_        | _O(n)_          | Medium   ||
