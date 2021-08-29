@@ -1476,7 +1476,7 @@
 0022| [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [C++](./C++/generate-parentheses.cpp) [Python](./Python/generate-parentheses.py)| _O(4^n / n^(3/2))_ | _O(n)_   | Medium         |done, go back|
 0037| [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Python](./Python/sudoku-solver.py) | _O((9!)^9)_  | _O(1)_          | Hard           ||
 0039| [Combination Sum](https://leetcode.com/problems/combination-sum/)| [Python](./Python/combination-sum.py) | _O(k * n^k)_    | _O(k)_          | Medium         |done, go back|
-0040| [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| [Python](./Python/combination-sum-ii.py)| _O(k * C(n, k))_| _O(k)_         | Medium         ||
+0040| [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| [Python](./Python/combination-sum-ii.py)| _O(k * C(n, k))_| _O(k)_         | Medium         |done, go back|
 0046| [Permutations](https://leetcode.com/problems/permutations/)| [Python](./Python/permutations.py) | _O(n * n!)_         | _O(n)_          | Medium         ||
 0047| [Permutations II](https://leetcode.com/problems/permutations-ii/)| [Python](./Python/permutations-ii.py) | _O(n * n!)_   | _O(n)_          | Medium           ||
 0051| [N-Queens](https://leetcode.com/problems/n-queens/)      | [Python](./Python/n-queens.py)   | _O(n!)_         | _O(n)_          | Hard           ||
