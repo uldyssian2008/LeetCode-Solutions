@@ -1483,7 +1483,7 @@
 0052| [N-Queens-II](https://leetcode.com/problems/n-queens-ii/)   | [Python](./Python/n-queens-ii.py) | _O(n!)_        | _O(n)_          | Hard           ||
 0077| [Combinations](https://leetcode.com/problems/combinations/)  | [C++](./C++/combinations.cpp) [Python](./Python/combinations.py) | _O(O(k * C(n, k)))_ | _O(k)_           | Medium         |done|
 0079| [Word Search](https://leetcode.com/problems/word-search/) | [C++](./C++/word-search.cpp) [Python](./Python/word-search.py) | _O(m * n * 3^l)_ | _O(l)_ | Medium         |done, go back|
-0093| [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [Python](./Python/restore-ip-addresses.py) | _O(1)_ | _O(1)_ | Medium         |undone, hard|
+0093| [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [Python](./Python/restore-ip-addresses.py) | _O(1)_ | _O(1)_ | Medium         |done, hard, go back|
 0078| [Subsets](https://leetcode.com/problems/subsets/)       | [C++](./C++/subsets.cpp)  [Python](./Python/subsets.py)    | _O(n * 2^n)_    | _O(1)_          | Medium         ||
 0090| [Subsets II](https://leetcode.com/problems/subsets-ii/)    | [C++](./C++/subsets-ii.cpp) [Python](./Python/subsets-ii.py) | _O(n * 2^n)_    | _O(1)_          | Medium         ||
 0126| [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)   |[C++](./C++/word-ladder-ii.cpp) [Python](./Python/word-ladder-ii.py) | _O(b^(d/2))_ | _O(w * l)_         | Hard         | CTCI | Bi-BFS
