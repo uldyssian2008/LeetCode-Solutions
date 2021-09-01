@@ -1487,7 +1487,7 @@
 0078| [Subsets](https://leetcode.com/problems/subsets/)       | [C++](./C++/subsets.cpp)  [Python](./Python/subsets.py)    | _O(n * 2^n)_    | _O(1)_          | Medium         |done|
 0090| [Subsets II](https://leetcode.com/problems/subsets-ii/)    | [C++](./C++/subsets-ii.cpp) [Python](./Python/subsets-ii.py) | _O(n * 2^n)_    | _O(1)_          | Medium         |done, go back|
 0126| [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)   |[C++](./C++/word-ladder-ii.cpp) [Python](./Python/word-ladder-ii.py) | _O(b^(d/2))_ | _O(w * l)_         | Hard         | CTCI | Bi-BFS
-0131| [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Python](./Python/palindrome-partitioning.py) | _O(n^2)_ ~ _O(2^n)_ | _O(n^2)_ | Medium ||
+0131| [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Python](./Python/palindrome-partitioning.py) | _O(n^2)_ ~ _O(2^n)_ | _O(n^2)_ | Medium |done|
 0140| [Word Break II](https://leetcode.com/problems/word-break-ii/)  | [C++](./C++/word-break-ii.cpp) [Python](./Python/word-break-ii.py) |  _O(n * l^2 + n * r)_      | _O(n^2)_       | Hard           ||
 0212| [Word Search II](https://leetcode.com/problems/word-search-ii/) | [C++](./C++/word-search-ii.cpp) [Python](./Python/word-search-ii.py) | _O(m * n * 3^h)_ | _O(t)_  | Hard         | LintCode | Trie, DFS
 0216| [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)| [C++](./C++/combination-sum-iii.cpp) [Python](./Python/combination-sum-iii.py) | _O(k * C(n, k))_    | _O(k)_          | Medium         ||
