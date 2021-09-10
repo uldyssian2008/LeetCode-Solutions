@@ -1550,7 +1550,7 @@
 0198| [House Robber](https://leetcode.com/problems/house-robber/)| [C++](./C++/house-robber.cpp) [Python](./Python/house-robber.py) | _O(n)_          | _O(1)_          | Easy           |done|
 0213| [House Robber II](https://leetcode.com/problems/house-robber-ii/)| [C++](./C++/house-robber-ii.cpp) [Python](./Python/house-robber-ii.py) | _O(n)_          | _O(1)_          | Medium           |done|
 0221| [Maximal Square](https://leetcode.com/problems/maximal-square/)| [C++](./C++/maximal-square.cpp) [Python](./Python/maximal-square.py) | _O(n^2)_         | _O(n)_          | Medium           | EPI |
-0256| [Paint House](https://leetcode.com/problems/paint-house/) | [C++](./C++/paint-house.cpp) [Python](./Python/paint-house.py) | _O(n)_| _O(1)_| Medium |🔒||
+0256| [Paint House](https://leetcode.com/problems/paint-house/) | [C++](./C++/paint-house.cpp) [Python](./Python/paint-house.py) | _O(n)_| _O(1)_| Medium |done🔒||
 0265| [Paint House II](https://leetcode.com/problems/paint-house-ii/) | [C++](./C++/paint-house-ii.cpp) [Python](./Python/paint-house-ii.py) | _O(n * k)_| _O(k)_| Hard |🔒||
 0276| [Paint Fence](https://leetcode.com/problems/paint-fence/) | [C++](./C++/paint-fence.cpp) [Python](./Python/paint-fence.py) | _O(n)_| _O(1)_| Easy |🔒||
 0279| [Perfect Squares](https://leetcode.com/problems/perfect-squares/)| [C++](./C++/perfect-squares.cpp) [Python](./Python/perfect-squares.py) | _O(n * sqrt(n))_         | _O(n)_          | Medium           ||  Hash |
