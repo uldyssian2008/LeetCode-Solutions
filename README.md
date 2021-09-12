@@ -1745,7 +1745,7 @@
 0045| [Jump Game II](https://leetcode.com/problems/jump-game-ii/)  | [Python](./Python/jump-game-ii.py) | _O(n)_        | _O(1)_          | Hard           ||
 0055| [Jump Game](https://leetcode.com/problems/jump-game/)     | [C++](./C++/jump-game.cpp) [Python](./Python/jump-game.py)  | _O(n)_          | _O(1)_          | Medium         |done|
 0122| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [C++](./C++/best-time-to-buy-and-sell-stock-ii.cpp) [Python](./Python/best-time-to-buy-and-sell-stock-ii.py) | _O(n)_ | _O(1)_ | Easy ||
-0134| [Gas Station](https://leetcode.com/problems/gas-station/)| [Python](./Python/gas-station.py)   | _O(n)_          | _O(1)_          | Medium         ||
+0134| [Gas Station](https://leetcode.com/problems/gas-station/)| [Python](./Python/gas-station.py)   | _O(n)_          | _O(1)_          | Medium         |done, go back|
 0135| [Candy](https://leetcode.com/problems/candy/)| [C++](./C++/candy.cpp) [Python](./Python/candy.py) | _O(n)_ | _O(n)_ | Hard ||
 0316| [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [C++](./C++/remove-duplicate-letters.cpp) [Python](./Python/remove-duplicate-letters.py) | _O(n)_| _O(1)_| Hard || Mono Stack |
 0321| [Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)| [C++](./C++/create-maximum-number.cpp) [Python](./Python/create-maximum-number.py) | _O(k * (m + n + k))_ ~ _O(k * (m + n + k^2))_| _O(m + n + k^2)_ | Hard | variant of [Delete Digits](http://www.lintcode.com/en/problem/delete-digits/) | Greedy, DP
